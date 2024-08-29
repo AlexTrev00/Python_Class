@@ -1,0 +1,13 @@
+#Listas
+#sintaxis
+# lista=[0,1,2,3] , lista-de-listas = [[0,1,2], ['hola','mundo']]
+# se escriben entre corchetes
+# se accede a sus elementos a traves del nombre de la lista y el indice del elemento
+# un indice negativo indica que se inicia desde el final de la lista
+# indice -1 indica el ultimo elemento de la lista mi_lista[-1]
+# un indice -2 indica el penultimo elemento
+# se puede recorrer una seccion de la lista usando un rango 
+# los rangos son separados por comas "," (dos puntos) mi_lista[:]
+# el rango 2:4 inicia en el indice 2 y termina en el 3,  el 4 no se incluye. 
+# una lista es un conjunto ordenado de valores en el cual cada valor identifica por un indice
+#los valores que constituyen una lista son sus elementos, las listas son similares a las cadenas de texto (string), que son conjuntos ordenados de caracteres, excepto en que los elementos de una lista pueden ser de cualquier tipo, las listas y las cadenas y otras cosas que se comportan como conjuntos ordenados, se llama secuencias
