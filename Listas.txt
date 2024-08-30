@@ -14,3 +14,5 @@ los valores que constituyen una lista son sus elementos, las listas son similare
 que son conjuntos ordenados de caracteres, excepto en que los elementos de una lista pueden ser de cualquier tipo, las listas y las cadenas y otras cosas que se comportan como conjuntos ordenados, se llama secuencias
 - hay listas especiales que no contienen elementos y se llaman listas vacias y se representan como [] 
 vacio = [] 
+    -- Listas Acceso a los elementos 
+            los elemtos de una lista empieza desde cero hasta n y se identifica así: lista[0] <--esto indica el primer elemento de la lista
