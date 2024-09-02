@@ -1,0 +1,11 @@
+Listas y Bucles FOR 
+La sintaxis general 
+for (variable) in lista:
+	CUERPO
+
+O CON WHILE 
+i = 0
+while i < len(lista):
+	variable = lista[i]
+	CUERPO
+	i = i + 1
