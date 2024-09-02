@@ -1,0 +1,19 @@
+Pertenencia a una lista 
+'in' es un operador booleano que comprueba la pertenencia a una secuencia pero tambien funciona con las listas, cadenas y otras secuencias: 
+
+>>>> lista = [1,2,3,4]
+>>>> 2 in lista
+1
+
+>>>> 5 in lista
+0
+
+cuando in es verdadero devuelve "1" y falso devuelve "0" ya que es un operador booleano
+
+Tambien se usa 'not' en combinacion con in para comprobar si un elemento no se encuentra dentro
+de la lista
+
+>>>> 5 not in lista
+1
+
+devuelve 1 (verdadero) ya que es verdadero que no se encuentra dentro de la lista
