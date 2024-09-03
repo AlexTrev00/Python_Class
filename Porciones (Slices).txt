@@ -1,0 +1,12 @@
+Porciones (Slices)
+Operaciones de porciones con listas 
+
+>>> lista = ['a','b','c','d','e']
+>>> print(lista[1:3])
+['b','c']
+>>> lista = ['a','b','c','d','e']
+>>> print (lista[:3])
+['a','b','c']
+>>> lista = ['a','b','c','d','e']
+>>> print(lista[2:])
+['c','d','e']
