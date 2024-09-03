@@ -1,0 +1,21 @@
+métodos de listas 
+list.append(elemento)
+-pega un elemento al final de la lista
+
+list.insert(pos,elemento)
+-inserta un elemento en la posicion pos
+
+list.remove(elemento)
+-borra el primer elemento de la lista
+
+el=list.pop(pos)
+-donde list.pop(pos) es contenido de la variable el borra y regresa el elemento en la posicion pos
+
+el=list.pop()
+- borra y regresa el ultimo elemento de la lista
+
+list.clear()
+- borra todos los elementos de la lista
+
+pos=list.index(elemento[,ini,fin])
+- regresa la posicion de la primera instancia del elemento 
