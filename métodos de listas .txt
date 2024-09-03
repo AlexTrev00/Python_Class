@@ -19,3 +19,21 @@ list.clear()
 
 pos=list.index(elemento[,ini,fin])
 - regresa la posicion de la primera instancia del elemento 
+
+x = list.count(elemento)
+- cuenta el numero de ocurrencias del elemento
+
+list.sort(key=Nnoce,reverse=false)
+- ordena una lista en orden ascendente/descendente 
+
+list.reverse()
+invierte el orden de los elementos en una lista
+
+del list[i]
+- elimina el elemento i de la lista
+
+del list[:]
+- elimina todos los elementos de la lista 
+
+del list[i:n]
+- eliminara los elementos desde i hasta n-1 
