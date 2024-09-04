@@ -2,6 +2,9 @@ métodos de listas
 list.append(elemento)
 -pega un elemento al final de la lista
 
+list.extend()
+-añade elementos de una segunda lista al final de la primera lista
+
 list.insert(pos,elemento)
 -inserta un elemento en la posicion pos
 
