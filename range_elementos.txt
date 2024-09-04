@@ -1,1 +1,4 @@
-# en el range del ciclo for esta conformado por 3 elementos, el primero indica donde inicia, el segundo el limite - 1 de datos que recorrera y el tercero indica el paso, este elemento indicara los pasos que recorrera el for iniciando desde el elemento 1 hasta el elemento2 - 1.
+# en el range del ciclo for esta conformado por 3 elementos: 
+el primero indica donde inicia 
+el segundo el limite - 1 de datos que recorrera  
+el tercero indica el paso, este elemento indicara los pasos que recorrera el for iniciando desde el elemento 1 hasta el elemento2 - 1.
