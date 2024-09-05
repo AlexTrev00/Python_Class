@@ -1,0 +1,19 @@
+# Matrices
+# se pueden usar listas anidadas para representar las filas y columnas de 
+# una matriz 
+
+# se puede representar como: 
+	matriz = [[1,2,3],[4,5,6],[7,8,9]]
+# devolver una fila entera de una matriz de forma normal 
+>>> matriz [1]
+[1,2,3]
+>>> matriz [1][1]
+5
+numeros = [5,1,3,2,4]
+numeros.sort() # sort acomoda la lista de manera descendente
+print(numeros)
+
+# aveces queremos que una lista se llene con datos cualesquiera se puede hacer con:
+numeros = 5*[0] # se crea una lista --> [0,0,0,0,0]
+# se desea un subconjunto del 2 al 7
+subconjunto = numeros[2,8] # devolvera un conjunto [2,3,4,5,6,7]
