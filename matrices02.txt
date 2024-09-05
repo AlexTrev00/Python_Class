@@ -1,0 +1,6 @@
+clienteA=["juan","123-234"]
+clienteB=["pedro","345-746"]
+agenda = []
+agenda.append(clienteA)
+agenda.append(clienteB)
+
