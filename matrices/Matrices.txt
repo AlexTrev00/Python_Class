@@ -1,0 +1,18 @@
+una empresa automotriz necesita un programa para manejar los montos de venta de sus N sucursales, a lo largo de los ultimos M años. Los datos son dados de esta forma: M,N
+
+MONTO 11	MONTO 12 	...	MONTO 1N
+
+MONTO 21	MONTO 22  	...     MONTO 2N
+
+MONTO M1	MONTO M2	... 	MONTO MN
+
+-------------------------------------------------------------------
+donde: 
+M es una variable entera que representa el numero de años entre 1 y 30 inclusive.
+N es una variable entera que representa el numero de sucursales de la empresa entre 1 y 35 inclusive.
+MONTO ij variable real (matris de 2 dimensiones) representa lo que se vendio en el año I en la sucursal J
+La informacion que necesitan los directores de la empresa para tomas decisiones es la siguiente: 
+a) sucursal que mas ha vendido en los  M años 
+b) promedio de ventas por año
+c) Año con mayor promedio de ventas
+
