@@ -1,0 +1,13 @@
+modulos y gestion de dependencias 
+pip: sistema de gestion de paquetes de software escritos en python, con el argumento install
+instalamos paquetes (pip install [nombre del paquete])
+y pip uninstall [nombre del paquete] para desinstalar paquetes.
+actualizar python: python -m pip install --upgrade pip
+
+si queremos hacer una instalacion masiva de paquetes, podemos optar por escribirlos dentro de un archivo txt, ejemplos paquetes.txt y ejecutar el comando
+pip install -r requirements.txt
+
+instalando modulos OFFLINE o de terceros
+se consiguen los archivos del modulo que vamos a ejecutar, Para el ejemeplo descarguemos el 
+modulo DNSPython
+
