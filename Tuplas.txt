@@ -1,0 +1,21 @@
+Tuplas:
+es similar a una lista con la diferencia de sintaxis que se definen con () y ademas son inmutables (no se pueden modificar)
+
+para definir una tupla con un solo elemento se pone una coma al final 
+>>> t1 = ('a',)
+>>> type(t1)
+<type 'tuple'>
+
+si se pone sin la coma toma el tipo de dato da como string en lugar de tupla.
+-- para acceder a los elementos de las tuplas se hace de la misma forma que en las listas. 
+-- los operadores de porciones (slices) son iguales que en las listas, tupla[1:3].
+
+---Aunque las tuplas no se puedan modificar se pueden concatenar tuplas con otras tuplas, es decir juntar dos tuplas:
+>>> tupla = ('b','c','d','e')
+>>> tupla = ('A',) + tupla[1:] # esto indica que se agregara la tupla de un elemento en la #posicion antes del indice 1 de la tupla original
+>>> tupla
+('A','b','c','d','e')
+
+
+
+
