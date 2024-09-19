@@ -1,0 +1,8 @@
+Asignacion de alias y copiado 
+si se quiere realizar cambios a un diccionario entonces debemos de hacer una copia de dicho diccionario, para esto usamos los alias
+
+inventario = {'manzana':430, 'banana':312, 'naranjas':525, 'peras':217}
+alias=inventario
+# alias es igual a copia entonces todo lo que modifique en inventario tambien afectara a #alias
+copia = inventario.copy()
+# de esta manera con .copy() hacemos una copia del diccionario que no surfrira los cambios #del diccionario original

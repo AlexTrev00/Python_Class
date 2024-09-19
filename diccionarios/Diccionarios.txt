@@ -1,0 +1,10 @@
+Diccionarios:
+los diccionarios con simialres a otros tipos compuestos excepto en que pueden usar como indice cualquier tipo inmutable.
+
+ejemplo: un diccionario que traduzca ingles a español
+
+>>> ing_a_esp={}
+>>> ing_a_esp ['one'] = 'uno'
+
+
+>>> ing_

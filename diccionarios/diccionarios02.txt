@@ -1,0 +1,19 @@
+diccionarios
+>>> inventario = {'manzana':430, 'banana':312, 
+		'naranjas':525, 'peras':217}
+>>> print(inventario)
+{'manzana':430, 'banana':312, 'naranjas':525, 'peras':217}
+
+>>> del inventario['pera']
+# lo que hacer es borrar la clave y el valor de pera dentro del diccionario
+>>> print(inventario)
+{'manzana':430, 'banana':312, 'naranjas':525}
+
+tambien se puede modificar el valor de la clave asignandole un valor diferente
+>>> inventario['peras']=0
+>>> print(inventario)
+{'manzana':430, 'banana':312, 'naranjas':525, 'peras':0}
+
+la funciona len tambien funciona con los diccionarios
+>>> len(inventario)
+4

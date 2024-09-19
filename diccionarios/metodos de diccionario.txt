@@ -1,0 +1,18 @@
+metodos de diccionario
+las llamadas a los metodos se llaman invocacion.
+
+keys().
+el metodo keys devuelve una lista con las claves de dicho diccionario, la sintaxis es:
+>>> inventario.keys()
+devolveria: 
+['manzana', 'banana', 'naranjas', 'peras']
+
+values()
+devuelve una lista con los valores de las claves, su sintaxis es:
+>>> inventario.values()
+
+items()
+devuelve una lista de tuplas con los pares de valores clave y valor, su sintaxis es: 
+>>> inventario.items()
+[('manzana':430), ('banana':312), ('naranjas':525), ('peras':217)]
+
