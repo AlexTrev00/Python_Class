@@ -1,0 +1,5 @@
+'''
+estructuras anidadas
+se puede crear estructuras de dos o mas niveles de anidacion que esten compuestos por datos heterogeneos
+'''
+
